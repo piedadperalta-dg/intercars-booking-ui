@@ -82,7 +82,12 @@ La web original presentaba varias limitaciones:
 
 ## Key Flow Preview
 ## Screens
-
+![Home](home.png)
+![Booking](booking.png)
+![Extras](extras.png)
+![Checkout](checkout.png)
+![Mobile](mobile.png)
+![Guides](guides.png)
 
 
 ---
