@@ -82,12 +82,7 @@ La web original presentaba varias limitaciones:
 
 ## Key Flow Preview
 ## Screens
-![Home](<img width="1680" height="8832" alt="Home" src="https://github.com/user-attachments/assets/708615af-49af-4efe-a397-cf20801f26a8" />)
-![Booking Step](<img width="1680" height="2472" alt="Reserva" src="https://github.com/user-attachments/assets/5bbfe445-dd8b-4c73-a3c8-f38cac3fd351" />)
-![Extras](<img width="1680" height="2098" alt="Extras" src="https://github.com/user-attachments/assets/b0067496-0454-4520-849d-7a9128cb94d0" />)
-![Checkout](<img width="1680" height="2369" alt="Confirmación" src="https://github.com/user-attachments/assets/505e6ce8-a67e-4c31-a33a-f19b5ce1d109" />)
-![Guides](<img width="526" height="652" alt="Guides" src="https://github.com/user-attachments/assets/0fc929da-f714-430e-8954-5ef6a6d3381f" />)
-![Mobile](<img width="390" height="12414" alt="Mobile" src="https://github.com/user-attachments/assets/7618a102-ce80-4c47-a872-63c1ddbdaa6a" />)
+
 
 
 ---
